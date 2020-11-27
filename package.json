@@ -1,0 +1,20 @@
+{
+  "name": "api-resta",
+  "version": "1.0.0",
+  "description": "Api encargada de restar valores dado un parámetro de entrada.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quilarque1/api-resta.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quilarque1/api-resta/issues"
+  },
+  "homepage": "https://github.com/quilarque1/api-resta#readme"
+}
